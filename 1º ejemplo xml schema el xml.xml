@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juego xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="ejemplo.xsd">
+	<nombre>Skyrim</nombre>
+	<desarrolladora>Betheda</desarrolladora>
+	<genero>ARPG</genero>
+	<anio>2011</anio>
+	<modo_de_juego>singleplayer</modo_de_juego>
+</juego>
